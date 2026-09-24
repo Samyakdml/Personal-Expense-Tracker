@@ -1,7 +1,9 @@
 # Personal Expense Tracker
 
 A simple desktop expense tracker built with Python and Tkinter. It allows users to add, view, delete, and clear expenses while automatically calculating the total and saving data for future use.
+## Screenshot
 
+![Personal Expense Tracker](expense-tracker-screenshot.png)
 ## Features
 
 - Add expenses with name and amount
